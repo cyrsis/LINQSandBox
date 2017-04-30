@@ -1,0 +1,7 @@
+F:\LINQ Codes\LINQC\ch04\DemoAll\DemoAll\bin\Debug\DemoAll.exe
+F:\LINQ Codes\LINQC\ch04\DemoAll\DemoAll\bin\Debug\DemoAll.pdb
+F:\LINQ Codes\LINQC\ch04\DemoAll\DemoAll\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoAll\DemoAll\obj\Debug\DemoAll.exe
+F:\LINQ Codes\LINQC\ch04\DemoAll\DemoAll\obj\Debug\DemoAll.pdb
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch04\DemoAll\DemoAll\obj\Debug\DemoAll.exe
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch04\DemoAll\DemoAll\obj\Debug\DemoAll.pdb

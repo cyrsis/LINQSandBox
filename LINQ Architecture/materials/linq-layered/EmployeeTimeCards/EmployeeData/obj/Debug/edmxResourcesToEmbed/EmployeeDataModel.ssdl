@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeDataModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="EmployeeDataModelStoreContainer">
+    <EntitySet Name="Employees" EntityType="EmployeeDataModel.Store.Employees" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TimeCards" EntityType="EmployeeDataModel.Store.TimeCards" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_EmployeeTimeCard" Association="EmployeeDataModel.Store.FK_EmployeeTimeCard">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="TimeCards" EntitySet="TimeCards" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="HireDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TimeCards">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Hours" Type="int" Nullable="false" />
+    <Property Name="EffectiveDate" Type="datetime" Nullable="false" />
+    <Property Name="EmployeeTimeCard_TimeCard_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_EmployeeTimeCard">
+    <End Role="Employees" Type="EmployeeDataModel.Store.Employees" Multiplicity="1" />
+    <End Role="TimeCards" Type="EmployeeDataModel.Store.TimeCards" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="TimeCards">
+        <PropertyRef Name="EmployeeTimeCard_TimeCard_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoPaginate\DemoPaginate\bin\Debug\DemoPaginate.exe
+F:\LINQ Codes\LINQC\ch04\DemoPaginate\DemoPaginate\bin\Debug\DemoPaginate.pdb
+F:\LINQ Codes\LINQC\ch04\DemoPaginate\DemoPaginate\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoPaginate\DemoPaginate\obj\Debug\DemoPaginate.exe
+F:\LINQ Codes\LINQC\ch04\DemoPaginate\DemoPaginate\obj\Debug\DemoPaginate.pdb

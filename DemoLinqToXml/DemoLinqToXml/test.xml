@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabAddressBookEntity xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/DemoOrder">
+  <Address i:nil="true" />
+  <Age>19</Age>
+  <Company i:nil="true" />
+  <Duty>乖巧人兒</Duty>
+  <MainID>4</MainID>
+  <Name>董巧巧</Name>
+  <Sex>女</Sex>
+  <TabShoppingListEntity>
+    <TabShoppingListEntity>
+      <AddressBookID>4</AddressBookID>
+      <Amount>1</Amount>
+      <Date i:nil="true" />
+      <ID>9</ID>
+      <Price>60000.0000</Price>
+      <Product>1克拉鑽石戒指</Product>
+      <Unit>�</Unit>
+    </TabShoppingListEntity>
+    <TabShoppingListEntity>
+      <AddressBookID>4</AddressBookID>
+      <Amount>1</Amount>
+      <Date i:nil="true" />
+      <ID>10</ID>
+      <Price>1000000.0000</Price>
+      <Product>旺角酒樓</Product>
+      <Unit>座</Unit>
+    </TabShoppingListEntity>
+  </TabShoppingListEntity>
+  <TelphoneNumber>029*-981256**</TelphoneNumber>
+</TabAddressBookEntity>
+

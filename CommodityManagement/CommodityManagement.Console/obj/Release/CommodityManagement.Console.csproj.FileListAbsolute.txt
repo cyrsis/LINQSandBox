@@ -1,0 +1,13 @@
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\bin\Release\CommodityManagement.mdf
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\bin\Release\CommodityManagement_log.ldf
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\bin\Release\CommodityManagement.Console.exe
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\bin\Release\CommodityManagement.Console.pdb
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\bin\Release\CommodityManagement.Model.dll
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\bin\Release\CommodityManagement.Model.pdb
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\obj\Release\ResolveAssemblyReference.cache
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\obj\Release\CommodityManagement.Console.CashRegisterControl.resources
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\obj\Release\CommodityManagement.Console.ConsoleView.resources
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\obj\Release\CommodityManagement.Console.Properties.Resources.resources
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\obj\Release\CommodityManagement.Console.csproj.GenerateResource.Cache
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\obj\Release\CommodityManagement.Console.exe
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Console\obj\Release\CommodityManagement.Console.pdb

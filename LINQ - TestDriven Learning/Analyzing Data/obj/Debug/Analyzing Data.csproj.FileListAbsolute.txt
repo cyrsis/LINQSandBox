@@ -1,0 +1,7 @@
+C:\dev\_LINQ\LINQ - TestDriven Learning\Analyzing Data\bin\Debug\Analyzing Data.dll
+C:\dev\_LINQ\LINQ - TestDriven Learning\Analyzing Data\bin\Debug\Analyzing Data.pdb
+C:\dev\_LINQ\LINQ - TestDriven Learning\Analyzing Data\bin\Debug\Models.dll
+C:\dev\_LINQ\LINQ - TestDriven Learning\Analyzing Data\bin\Debug\Models.pdb
+C:\dev\_LINQ\LINQ - TestDriven Learning\Analyzing Data\obj\Debug\Analyzing Data.csprojResolveAssemblyReference.cache
+C:\dev\_LINQ\LINQ - TestDriven Learning\Analyzing Data\obj\Debug\Analyzing Data.dll
+C:\dev\_LINQ\LINQ - TestDriven Learning\Analyzing Data\obj\Debug\Analyzing Data.pdb

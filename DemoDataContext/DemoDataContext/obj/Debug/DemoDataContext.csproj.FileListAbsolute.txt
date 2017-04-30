@@ -1,0 +1,8 @@
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\bin\Debug\DemoDataContext.exe
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\bin\Debug\DemoDataContext.pdb
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\obj\Debug\DemoDataContext.exe
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\obj\Debug\DemoDataContext.pdb
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\bin\Debug\DbAddressBook.mdf
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\bin\Debug\DbAddressBook_log.ldf
+F:\LINQ Codes\LINQC\ch05\DemoDataContext\DemoDataContext\bin\Debug\DemoDataContext.exe.config

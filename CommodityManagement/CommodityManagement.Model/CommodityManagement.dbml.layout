@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CommodityManagement">
+  <DataContextMoniker Name="/CommodityManagementDataContext" />
+  <nestedChildShapes>
+    <classShape Id="914346bb-d952-4e4a-b541-656ee185cbdb" absoluteBounds="0.5, 0.5, 1.625, 1.9542057291666666">
+      <DataClassMoniker Name="/CommodityManagementDataContext/RunningAccount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91f57ff4-81d4-46ef-b60c-7756a9ec2b11" absoluteBounds="0.515, 0.96, 1.5950000000000002, 1.3942057291666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1656c73f-74eb-485f-aab8-e0adcda2395f" absoluteBounds="2.875, 0.5, 1.5, 2.1228255208333335">
+      <DataClassMoniker Name="/CommodityManagementDataContext/CommodityList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3c961d7-344a-42e8-8984-75a3f497ce92" absoluteBounds="2.8899999999999997, 0.96, 1.4700000000000002, 1.5628255208333335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.875 : 1.47710286458333); (2.125 : 1.47710286458333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CommodityManagementDataContext/CommodityList/CommodityList_RunningAccount" />
+      <nodes>
+        <classShapeMoniker Id="1656c73f-74eb-485f-aab8-e0adcda2395f" />
+        <classShapeMoniker Id="914346bb-d952-4e4a-b541-656ee185cbdb" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

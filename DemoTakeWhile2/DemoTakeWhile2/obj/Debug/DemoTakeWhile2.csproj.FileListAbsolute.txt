@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoTakeWhile2\DemoTakeWhile2\bin\Debug\TakeWhile2.exe
+F:\LINQ Codes\LINQC\ch04\DemoTakeWhile2\DemoTakeWhile2\bin\Debug\TakeWhile2.pdb
+F:\LINQ Codes\LINQC\ch04\DemoTakeWhile2\DemoTakeWhile2\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoTakeWhile2\DemoTakeWhile2\obj\Debug\TakeWhile2.exe
+F:\LINQ Codes\LINQC\ch04\DemoTakeWhile2\DemoTakeWhile2\obj\Debug\TakeWhile2.pdb

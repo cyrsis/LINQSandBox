@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExecuteQuery2", "DemoExecuteQuery2\DemoExecuteQuery2.csproj", "{6177BCA1-4842-4431-8F7E-43A6689BCB8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6177BCA1-4842-4431-8F7E-43A6689BCB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6177BCA1-4842-4431-8F7E-43A6689BCB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6177BCA1-4842-4431-8F7E-43A6689BCB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6177BCA1-4842-4431-8F7E-43A6689BCB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

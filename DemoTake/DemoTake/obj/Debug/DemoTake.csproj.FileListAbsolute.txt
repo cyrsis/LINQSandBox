@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoTake\DemoTake\bin\Debug\DemoTake.exe
+F:\LINQ Codes\LINQC\ch04\DemoTake\DemoTake\bin\Debug\DemoTake.pdb
+F:\LINQ Codes\LINQC\ch04\DemoTake\DemoTake\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoTake\DemoTake\obj\Debug\DemoTake.exe
+F:\LINQ Codes\LINQC\ch04\DemoTake\DemoTake\obj\Debug\DemoTake.pdb

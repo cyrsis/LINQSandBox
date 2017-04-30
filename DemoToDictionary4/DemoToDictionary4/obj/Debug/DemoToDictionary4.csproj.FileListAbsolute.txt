@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoToDictionary4\DemoToDictionary4\bin\Debug\DemoToDictionary4.exe
+F:\LINQ Codes\LINQC\ch04\DemoToDictionary4\DemoToDictionary4\bin\Debug\DemoToDictionary4.pdb
+F:\LINQ Codes\LINQC\ch04\DemoToDictionary4\DemoToDictionary4\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoToDictionary4\DemoToDictionary4\obj\Debug\DemoToDictionary4.exe
+F:\LINQ Codes\LINQC\ch04\DemoToDictionary4\DemoToDictionary4\obj\Debug\DemoToDictionary4.pdb

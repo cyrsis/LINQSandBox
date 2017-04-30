@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoGetModifiedMembers\DemoGetModifiedMembers\bin\Debug\DemGetModifiedMembers.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetModifiedMembers\DemoGetModifiedMembers\bin\Debug\DemGetModifiedMembers.pdb
+F:\LINQ Codes\LINQC\ch05\DemoGetModifiedMembers\DemoGetModifiedMembers\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoGetModifiedMembers\DemoGetModifiedMembers\obj\Debug\DemGetModifiedMembers.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetModifiedMembers\DemoGetModifiedMembers\obj\Debug\DemGetModifiedMembers.pdb

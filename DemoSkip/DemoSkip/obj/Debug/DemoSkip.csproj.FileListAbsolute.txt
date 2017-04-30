@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoSkip\DemoSkip\bin\Debug\DemoSkip.exe
+F:\LINQ Codes\LINQC\ch04\DemoSkip\DemoSkip\bin\Debug\DemoSkip.pdb
+F:\LINQ Codes\LINQC\ch04\DemoSkip\DemoSkip\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoSkip\DemoSkip\obj\Debug\DemoSkip.exe
+F:\LINQ Codes\LINQC\ch04\DemoSkip\DemoSkip\obj\Debug\DemoSkip.pdb

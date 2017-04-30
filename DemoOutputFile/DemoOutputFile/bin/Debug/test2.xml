@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='test.xsl'?><!DOCTYPE 限定名 PUBLIC "Test Name" "專用標誌符"[內部子集]><!--這是文件的註釋內容--><根元素 內容="0" xmlns="http://www.tiyor.com"><子元素 /><子元素 /><![CDATA[這裡是根元素的CDATA節點]]></根元素>

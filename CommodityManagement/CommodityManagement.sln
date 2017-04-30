@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommodityManagement.Model", "CommodityManagement.Model\CommodityManagement.Model.csproj", "{DE5BFB26-CF54-4587-B614-651359D4514B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommodityManagement.Console", "CommodityManagement.Console\CommodityManagement.Console.csproj", "{BC1C6BB1-35FA-4F80-867C-EBE7352625C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommodityManagement.Web", "CommodityManagement.Web\CommodityManagement.Web.csproj", "{488E6C8D-F42E-4958-85CF-817235B9B819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5BFB26-CF54-4587-B614-651359D4514B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5BFB26-CF54-4587-B614-651359D4514B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5BFB26-CF54-4587-B614-651359D4514B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5BFB26-CF54-4587-B614-651359D4514B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1C6BB1-35FA-4F80-867C-EBE7352625C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1C6BB1-35FA-4F80-867C-EBE7352625C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1C6BB1-35FA-4F80-867C-EBE7352625C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1C6BB1-35FA-4F80-867C-EBE7352625C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488E6C8D-F42E-4958-85CF-817235B9B819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488E6C8D-F42E-4958-85CF-817235B9B819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488E6C8D-F42E-4958-85CF-817235B9B819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488E6C8D-F42E-4958-85CF-817235B9B819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

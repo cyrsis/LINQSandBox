@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="dc32bfb0-8980-45ea-a614-0022b1ac7915" name="bitmask@BIT7 2010-09-24 01:50:09" runUser="bit7\bitmask" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="1803e245-6a04-4006-b3d6-4c27517c98de">
+    <Deployment runDeploymentRoot="bitmask_BIT7 2010-09-24 01_50_09">
+      <DeploymentItem filename="C:\temp\linq-beyondqueries\bin\BeyondQueries.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-09-24T01:50:09.2030000-04:00" queuing="2010-09-24T01:50:09.4160000-04:00" start="2010-09-24T01:50:09.4280000-04:00" finish="2010-09-24T01:50:09.6920000-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MovieWithoutATitleNeedsMoreInformation" storage="c:\temp\beyondqueries.tests\bin\debug\beyondqueries.tests.dll" id="ed6dcae6-11a4-d0a6-c707-e5fc2823deac">
+      <Execution id="f3459996-3539-49aa-be21-19da6c0da555" />
+      <TestMethod codeBase="C:/temp/BeyondQueries.Tests/bin/Debug/BeyondQueries.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BeyondQueries.Tests.MovieEvaluation, BeyondQueries.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MovieWithoutATitleNeedsMoreInformation" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ed6dcae6-11a4-d0a6-c707-e5fc2823deac" executionId="f3459996-3539-49aa-be21-19da6c0da555" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f3459996-3539-49aa-be21-19da6c0da555" testId="ed6dcae6-11a4-d0a6-c707-e5fc2823deac" testName="MovieWithoutATitleNeedsMoreInformation" computerName="BIT7" duration="00:00:00.0331932" startTime="2010-09-24T01:50:09.4290000-04:00" endTime="2010-09-24T01:50:09.6740000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f3459996-3539-49aa-be21-19da6c0da555">
+    </UnitTestResult>
+  </Results>
+</TestRun>

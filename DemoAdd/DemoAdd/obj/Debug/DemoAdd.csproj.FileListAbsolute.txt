@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoAdd\DemoAdd\bin\Debug\DemoAdd.exe
+F:\LINQ Codes\LINQC\ch05\DemoAdd\DemoAdd\bin\Debug\DemoAdd.pdb
+F:\LINQ Codes\LINQC\ch05\DemoAdd\DemoAdd\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoAdd\DemoAdd\obj\Debug\DemoAdd.exe
+F:\LINQ Codes\LINQC\ch05\DemoAdd\DemoAdd\obj\Debug\DemoAdd.pdb

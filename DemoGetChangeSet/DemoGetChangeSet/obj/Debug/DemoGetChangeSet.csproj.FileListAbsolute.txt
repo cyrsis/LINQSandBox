@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoGetChangeSet\DemoGetChangeSet\bin\Debug\DemoGetChangeSet.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetChangeSet\DemoGetChangeSet\bin\Debug\DemoGetChangeSet.pdb
+F:\LINQ Codes\LINQC\ch05\DemoGetChangeSet\DemoGetChangeSet\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoGetChangeSet\DemoGetChangeSet\obj\Debug\DemoGetChangeSet.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetChangeSet\DemoGetChangeSet\obj\Debug\DemoGetChangeSet.pdb

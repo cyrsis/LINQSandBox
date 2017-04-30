@@ -1,0 +1,6 @@
+F:\LINQ Codes\LINQC\ch06\DemoLinqToXml\DemoLinqToXml\bin\Debug\test.xml
+F:\LINQ Codes\LINQC\ch06\DemoLinqToXml\DemoLinqToXml\bin\Debug\DemoLinqToXml.exe
+F:\LINQ Codes\LINQC\ch06\DemoLinqToXml\DemoLinqToXml\bin\Debug\DemoLinqToXml.pdb
+F:\LINQ Codes\LINQC\ch06\DemoLinqToXml\DemoLinqToXml\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoLinqToXml\DemoLinqToXml\obj\Debug\DemoLinqToXml.exe
+F:\LINQ Codes\LINQC\ch06\DemoLinqToXml\DemoLinqToXml\obj\Debug\DemoLinqToXml.pdb

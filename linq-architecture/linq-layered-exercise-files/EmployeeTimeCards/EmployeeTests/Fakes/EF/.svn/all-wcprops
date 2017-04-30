@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeTests/Fakes/EF
+END
+InMemoryObjectSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeTests/Fakes/EF/InMemoryObjectSet.cs
+END
+InMemoryUnitOfWork.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeTests/Fakes/EF/InMemoryUnitOfWork.cs
+END

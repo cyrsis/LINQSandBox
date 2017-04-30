@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoToLookup4\DemoToLookup4\bin\Debug\DemoToLookup4.exe
+F:\LINQ Codes\LINQC\ch04\DemoToLookup4\DemoToLookup4\bin\Debug\DemoToLookup4.pdb
+F:\LINQ Codes\LINQC\ch04\DemoToLookup4\DemoToLookup4\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoToLookup4\DemoToLookup4\obj\Debug\DemoToLookup4.exe
+F:\LINQ Codes\LINQC\ch04\DemoToLookup4\DemoToLookup4\obj\Debug\DemoToLookup4.pdb

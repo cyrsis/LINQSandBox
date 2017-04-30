@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoReverse\DemoReverse\bin\Debug\DemoReverse.exe
+F:\LINQ Codes\LINQC\ch04\DemoReverse\DemoReverse\bin\Debug\DemoReverse.pdb
+F:\LINQ Codes\LINQC\ch04\DemoReverse\DemoReverse\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoReverse\DemoReverse\obj\Debug\DemoReverse.exe
+F:\LINQ Codes\LINQC\ch04\DemoReverse\DemoReverse\obj\Debug\DemoReverse.pdb

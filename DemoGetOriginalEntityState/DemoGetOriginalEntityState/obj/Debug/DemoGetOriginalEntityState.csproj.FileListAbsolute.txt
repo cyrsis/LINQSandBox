@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoGetOriginalEntityState\DemoGetOriginalEntityState\bin\Debug\DemGetOriginalEntityState.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetOriginalEntityState\DemoGetOriginalEntityState\bin\Debug\DemGetOriginalEntityState.pdb
+F:\LINQ Codes\LINQC\ch05\DemoGetOriginalEntityState\DemoGetOriginalEntityState\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoGetOriginalEntityState\DemoGetOriginalEntityState\obj\Debug\DemGetOriginalEntityState.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetOriginalEntityState\DemoGetOriginalEntityState\obj\Debug\DemGetOriginalEntityState.pdb

@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXReplaceAttributes\DemoXReplaceAttributes\bin\Debug\DemoXReplaceAttributes.exe
+F:\LINQ Codes\LINQC\ch06\DemoXReplaceAttributes\DemoXReplaceAttributes\bin\Debug\DemoXReplaceAttributes.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXReplaceAttributes\DemoXReplaceAttributes\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXReplaceAttributes\DemoXReplaceAttributes\obj\Debug\DemoXReplaceAttributes.exe
+F:\LINQ Codes\LINQC\ch06\DemoXReplaceAttributes\DemoXReplaceAttributes\obj\Debug\DemoXReplaceAttributes.pdb

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Database Name="LinqTestDatabase" xmlns="http://schemas.microsoft.com/linqtosql/mapping/2007">
+  <!-- 資料庫 TabAddressBook 表格-->
+  <Table Name="TabAddressBook">
+    <!-- 映射到內存是實體類 -->
+    <Type Name="DemoEntity2.TabAddressBookEntity">
+      <!-- 將表格列映射到實體類內容 Name：列名稱，Member：實體類內容名稱 -->
+      <Column Name="ab_id" Member="ID" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" />
+      <Column Name="ab_name" Member="Name" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ab_dub" Member="Duty" DbType="VarChar(50)" />
+      <Column Name="ab_sex" Member="Sex" DbType="Char(2) NOT NULL" />
+      <Column Name="ab_age" Member="Age" DbType="TinyInt" />
+      <Column Name="ab_add" Member="Address" DbType="VarChar(200)" />
+      <Column Name="ab_com" Member="Company" DbType="VarChar(200)" />
+      <Column Name="ab_tel" Member="TelphoneNumber" DbType="Text" UpdateCheck="Never" />
+    </Type>
+  </Table>
+</Database>

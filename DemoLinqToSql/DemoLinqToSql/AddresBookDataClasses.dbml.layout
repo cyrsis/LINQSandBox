@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AddresBookDataClasses">
+  <DataContextMoniker Name="/AddresBookDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="58c73b84-a812-4b47-a65c-07fa76af64b6" absoluteBounds="0.5, 2.875, 1.5, 2.9659244791666666">
+      <DataClassMoniker Name="/AddresBookDataClassesDataContext/ViewShoppingList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d42ea77-10a3-424c-8e9b-90743ede6e99" absoluteBounds="0.515, 3.335, 1.4700000000000002, 2.4059244791666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="49f7a29d-e3af-4afc-9a18-bae917c6f470" absoluteBounds="3.5, 1.375, 2, 2.1228255208333335">
+      <DataClassMoniker Name="/AddresBookDataClassesDataContext/TabAddressBook" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04b700b7-e6cc-4200-9ca2-2f8d94f6acc5" absoluteBounds="3.515, 1.835, 1.9700000000000002, 1.5628255208333335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="57c2b196-58d6-40ca-9650-e33120e9219f" absoluteBounds="1.125, 0.625, 2, 1.9542057291666666">
+      <DataClassMoniker Name="/AddresBookDataClassesDataContext/TabShoppingList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe5b252b-54c7-48c5-a502-62e544366773" absoluteBounds="1.1400000000000001, 1.085, 1.9700000000000002, 1.3942057291666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.5 : 1.97710286458333); (3.125 : 1.97710286458333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AddresBookDataClassesDataContext/TabAddressBook/TabAddressBook_TabShoppingList" />
+      <nodes>
+        <classShapeMoniker Id="49f7a29d-e3af-4afc-9a18-bae917c6f470" />
+        <classShapeMoniker Id="57c2b196-58d6-40ca-9650-e33120e9219f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

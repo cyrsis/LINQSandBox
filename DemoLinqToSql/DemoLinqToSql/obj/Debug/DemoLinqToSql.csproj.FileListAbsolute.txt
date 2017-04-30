@@ -1,0 +1,8 @@
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\bin\Debug\DemoLinqToSql.exe.config
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\bin\Debug\DbAddressBook.mdf
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\bin\Debug\DbAddressBook_log.ldf
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\bin\Debug\DemoLinqToSql.exe
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\bin\Debug\DemoLinqToSql.pdb
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\obj\Debug\DemoLinqToSql.exe
+F:\LINQ Codes\LINQC\ch05\DemoLinqToSql\DemoLinqToSql\obj\Debug\DemoLinqToSql.pdb

@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoInsertAllOnSubmit\DemoInsertAllOnSubmit\bin\Debug\DemoInsertAllOnSubmit.exe
+F:\LINQ Codes\LINQC\ch05\DemoInsertAllOnSubmit\DemoInsertAllOnSubmit\bin\Debug\DemoInsertAllOnSubmit.pdb
+F:\LINQ Codes\LINQC\ch05\DemoInsertAllOnSubmit\DemoInsertAllOnSubmit\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoInsertAllOnSubmit\DemoInsertAllOnSubmit\obj\Debug\DemoInsertAllOnSubmit.exe
+F:\LINQ Codes\LINQC\ch05\DemoInsertAllOnSubmit\DemoInsertAllOnSubmit\obj\Debug\DemoInsertAllOnSubmit.pdb

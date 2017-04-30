@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXCount\DemoXCount\bin\Debug\DemoXCount.exe
+F:\LINQ Codes\LINQC\ch06\DemoXCount\DemoXCount\bin\Debug\DemoXCount.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXCount\DemoXCount\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXCount\DemoXCount\obj\Debug\DemoXCount.exe
+F:\LINQ Codes\LINQC\ch06\DemoXCount\DemoXCount\obj\Debug\DemoXCount.pdb

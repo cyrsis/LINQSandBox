@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXProcessingInstruction\DemoXProcessingInstruction\bin\Debug\DemoXProcessingInstruction.exe
+F:\LINQ Codes\LINQC\ch06\DemoXProcessingInstruction\DemoXProcessingInstruction\bin\Debug\DemoXProcessingInstruction.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXProcessingInstruction\DemoXProcessingInstruction\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXProcessingInstruction\DemoXProcessingInstruction\obj\Debug\DemoXProcessingInstruction.exe
+F:\LINQ Codes\LINQC\ch06\DemoXProcessingInstruction\DemoXProcessingInstruction\obj\Debug\DemoXProcessingInstruction.pdb

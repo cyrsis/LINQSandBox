@@ -1,0 +1,8 @@
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\bin\Debug\DemoLog.exe
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\bin\Debug\DemoLog.pdb
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\obj\Debug\DemoLog.LogShow.resources
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\obj\Debug\DemoLog.Properties.Resources.resources
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\obj\Debug\DemoLog.csproj.GenerateResource.Cache
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\obj\Debug\DemoLog.exe
+F:\LINQ Codes\LINQC\ch05\DemoLog\DemoLog\obj\Debug\DemoLog.pdb

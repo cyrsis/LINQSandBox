@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoSum\DemoSum\bin\Debug\DemoSum.exe
+F:\LINQ Codes\LINQC\ch04\DemoSum\DemoSum\bin\Debug\DemoSum.pdb
+F:\LINQ Codes\LINQC\ch04\DemoSum\DemoSum\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoSum\DemoSum\obj\Debug\DemoSum.exe
+F:\LINQ Codes\LINQC\ch04\DemoSum\DemoSum\obj\Debug\DemoSum.pdb

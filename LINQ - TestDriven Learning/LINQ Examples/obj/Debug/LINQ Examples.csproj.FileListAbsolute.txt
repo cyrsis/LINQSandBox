@@ -1,0 +1,1 @@
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Examples\obj\Debug\LINQ Examples.csprojResolveAssemblyReference.cache

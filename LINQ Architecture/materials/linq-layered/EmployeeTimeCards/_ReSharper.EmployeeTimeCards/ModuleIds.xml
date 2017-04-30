@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="95027F36-3D30-4E35-A81D-18C0B92F3CB6" ModuleId="EmployeeTests" />
+  <Module PersistentId="2CBCCE10-CF93-4050-95A7-9E0D91802D1C" ModuleId="EmployeeWeb" />
+  <Module PersistentId="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E" ModuleId="EmployeeDomain" />
+  <Module PersistentId="0B57154E-1FFA-439B-9776-732DA845ACCB" ModuleId="EmployeeData" />
+  <Module PersistentId="System.Data.Entity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.Entity" />
+</Modules>

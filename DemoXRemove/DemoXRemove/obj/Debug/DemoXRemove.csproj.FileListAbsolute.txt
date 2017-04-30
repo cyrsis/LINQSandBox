@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXRemove\DemoXRemove\bin\Debug\DemoXRemove.exe
+F:\LINQ Codes\LINQC\ch06\DemoXRemove\DemoXRemove\bin\Debug\DemoXRemove.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXRemove\DemoXRemove\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXRemove\DemoXRemove\obj\Debug\DemoXRemove.exe
+F:\LINQ Codes\LINQC\ch06\DemoXRemove\DemoXRemove\obj\Debug\DemoXRemove.pdb

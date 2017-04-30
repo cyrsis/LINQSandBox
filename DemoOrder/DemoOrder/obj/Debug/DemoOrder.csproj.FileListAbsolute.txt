@@ -1,0 +1,8 @@
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\bin\Debug\DemoOrder.exe
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\bin\Debug\DemoOrder.pdb
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\obj\Debug\DemoOrder.OrderForm.resources
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\obj\Debug\DemoOrder.Properties.Resources.resources
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\obj\Debug\DemoOrder.csproj.GenerateResource.Cache
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\obj\Debug\DemoOrder.exe
+F:\LINQ Codes\LINQC\ch05\DemoOrder\DemoOrder\obj\Debug\DemoOrder.pdb

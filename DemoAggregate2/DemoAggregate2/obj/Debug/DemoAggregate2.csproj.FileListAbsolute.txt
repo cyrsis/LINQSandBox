@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoAggregate2\DemoAggregate2\bin\Debug\DemoAggregate2.exe
+F:\LINQ Codes\LINQC\ch04\DemoAggregate2\DemoAggregate2\bin\Debug\DemoAggregate2.pdb
+F:\LINQ Codes\LINQC\ch04\DemoAggregate2\DemoAggregate2\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoAggregate2\DemoAggregate2\obj\Debug\DemoAggregate2.exe
+F:\LINQ Codes\LINQC\ch04\DemoAggregate2\DemoAggregate2\obj\Debug\DemoAggregate2.pdb

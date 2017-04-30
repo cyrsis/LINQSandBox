@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoAttach3\DemoAttach3\bin\Debug\DemAttach3.exe
+F:\LINQ Codes\LINQC\ch05\DemoAttach3\DemoAttach3\bin\Debug\DemAttach3.pdb
+F:\LINQ Codes\LINQC\ch05\DemoAttach3\DemoAttach3\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoAttach3\DemoAttach3\obj\Debug\DemAttach3.exe
+F:\LINQ Codes\LINQC\ch05\DemoAttach3\DemoAttach3\obj\Debug\DemAttach3.pdb

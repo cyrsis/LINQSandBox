@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="EmployeeDataModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="EmployeeDataModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="EmployeeDataModel.Employee" />
+    <EntitySet Name="TimeCards" EntityType="EmployeeDataModel.TimeCard" />
+    <AssociationSet Name="EmployeeTimeCard" Association="EmployeeDataModel.EmployeeTimeCard">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="TimeCard" EntitySet="TimeCards" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="true" />
+    <Property Type="DateTime" Name="HireDate" Nullable="false" />
+    <NavigationProperty Name="TimeCards" Relationship="EmployeeDataModel.EmployeeTimeCard" FromRole="Employee" ToRole="TimeCard" />
+  </EntityType>
+  <EntityType Name="TimeCard">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="Hours" Nullable="false" />
+    <Property Type="DateTime" Name="EffectiveDate" Nullable="false" />
+  </EntityType>
+  <Association Name="EmployeeTimeCard">
+    <End Type="EmployeeDataModel.Employee" Role="Employee" Multiplicity="1" />
+    <End Type="EmployeeDataModel.TimeCard" Role="TimeCard" Multiplicity="*" />
+  </Association>
+</Schema>

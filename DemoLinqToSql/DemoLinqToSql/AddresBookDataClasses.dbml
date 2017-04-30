@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database Name="DbAddressBook" Class="AddresBookDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\DbAddressBook.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="DemoLinqToSql.Properties.Settings" SettingsPropertyName="DbAddressBookConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ViewShoppingList" Member="ViewShoppingList">
+    <Type Name="ViewShoppingList">
+      <Column Name="sl_pname" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="sl_price" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="sl_amount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sl_unit" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="sl_indate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ab_id" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ab_name" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ab_dub" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ab_sex" Type="System.String" DbType="Char(2) NOT NULL" CanBeNull="false" />
+      <Column Name="ab_age" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ab_add" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="ab_com" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="ab_tel" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TabAddressBook" Member="TabAddressBook">
+    <Type Name="TabAddressBook">
+      <Column Name="ab_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ab_name" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ab_dub" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ab_sex" Type="System.String" DbType="VarChar(4) NOT NULL" CanBeNull="false" />
+      <Column Name="ab_age" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ab_add" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="ab_com" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="ab_tel" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="TabAddressBook_TabShoppingList" Member="TabShoppingList" ThisKey="ab_id" OtherKey="sl_abid" Type="TabShoppingList" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TabShoppingList" Member="TabShoppingList">
+    <Type Name="TabShoppingList">
+      <Column Name="sl_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sl_abid" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="sl_pname" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="sl_price" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="sl_amount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sl_unit" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="sl_indate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="TabAddressBook_TabShoppingList" Member="TabAddressBook" ThisKey="sl_abid" OtherKey="ab_id" Type="TabAddressBook" IsForeignKey="true" DeleteRule="SET DEFAULT" />
+    </Type>
+  </Table>
+  <Function Name="dbo.DeleteGuest" Method="DeleteGuest">
+    <Parameter Name="uid" Type="System.Int64" DbType="BigInt" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

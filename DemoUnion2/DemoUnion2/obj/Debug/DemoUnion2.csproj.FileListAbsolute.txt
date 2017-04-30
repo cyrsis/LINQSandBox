@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoUnion2\DemoUnion2\bin\Debug\DemoUnion2.exe
+F:\LINQ Codes\LINQC\ch04\DemoUnion2\DemoUnion2\bin\Debug\DemoUnion2.pdb
+F:\LINQ Codes\LINQC\ch04\DemoUnion2\DemoUnion2\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoUnion2\DemoUnion2\obj\Debug\DemoUnion2.exe
+F:\LINQ Codes\LINQC\ch04\DemoUnion2\DemoUnion2\obj\Debug\DemoUnion2.pdb

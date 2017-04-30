@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoOutputTextWriter\DemoOutputTextWriter\bin\Debug\DemoOutputTextWriter.exe
+F:\LINQ Codes\LINQC\ch06\DemoOutputTextWriter\DemoOutputTextWriter\bin\Debug\DemoOutputTextWriter.pdb
+F:\LINQ Codes\LINQC\ch06\DemoOutputTextWriter\DemoOutputTextWriter\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoOutputTextWriter\DemoOutputTextWriter\obj\Debug\DemoOutputTextWriter.exe
+F:\LINQ Codes\LINQC\ch06\DemoOutputTextWriter\DemoOutputTextWriter\obj\Debug\DemoOutputTextWriter.pdb

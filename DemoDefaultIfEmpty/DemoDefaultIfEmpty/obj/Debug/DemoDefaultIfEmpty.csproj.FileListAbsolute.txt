@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoDefaultIfEmpty\DemoDefaultIfEmpty\bin\Debug\DemoDefaultIfEmpty.exe
+F:\LINQ Codes\LINQC\ch04\DemoDefaultIfEmpty\DemoDefaultIfEmpty\bin\Debug\DemoDefaultIfEmpty.pdb
+F:\LINQ Codes\LINQC\ch04\DemoDefaultIfEmpty\DemoDefaultIfEmpty\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoDefaultIfEmpty\DemoDefaultIfEmpty\obj\Debug\DemoDefaultIfEmpty.exe
+F:\LINQ Codes\LINQC\ch04\DemoDefaultIfEmpty\DemoDefaultIfEmpty\obj\Debug\DemoDefaultIfEmpty.pdb

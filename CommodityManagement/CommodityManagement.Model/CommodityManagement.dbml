@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="CommodityManagement" Class="CommodityManagementDataContext" Serialization="Unidirectional" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\CommodityManagement.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="CommodityManagement.Model.Properties.Settings" SettingsPropertyName="CommodityManagementConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.RunningAccount" Member="RunningAccount">
+    <Type Name="RunningAccount">
+      <Column Name="ra_id" Member="Id" Storage="_ra_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ra_barcode" Member="Barcode" Storage="_ra_barcode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ra_amount" Member="Amount" Storage="_ra_amount" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ra_price" Member="Price" Storage="_ra_price" Type="System.Double" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="ra_indate" Member="Date" Storage="_ra_indate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ra_clid" Member="CommodityListId" Storage="_ra_clid" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ra_name" Member="Name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="CommodityList_RunningAccount" Member="CommodityList" AccessModifier="Internal" ThisKey="CommodityListId" OtherKey="Id" Type="CommodityList" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CommodityList" Member="CommodityList">
+    <Type Name="CommodityList">
+      <Column Name="cl_id" Member="Id" Storage="_cl_id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cl_name" Member="Name" Storage="_cl_name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="cl_amount" Member="Amount" Storage="_cl_amount" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="cl_price" Member="Price" Storage="_cl_price" Type="System.Double" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="cl_unit" Member="Unit" Storage="_cl_unit" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="cl_indate" Member="Date" Storage="_cl_indate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="cl_barcode" Member="Barcode" Storage="_cl_barcode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cl_iprice" Member="ImportPrice" Storage="_cl_iprice" Type="System.Double" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Association Name="CommodityList_RunningAccount" Member="RunningAccount" ThisKey="Id" OtherKey="CommodityListId" Type="RunningAccount" />
+    </Type>
+  </Table>
+</Database>

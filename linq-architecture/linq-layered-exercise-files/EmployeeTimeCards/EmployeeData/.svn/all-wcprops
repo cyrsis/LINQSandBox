@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeData
+END
+App.Config
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeData/App.Config
+END
+EmployeeDataModel.edmx.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeData/EmployeeDataModel.edmx.sql
+END
+EmployeeDataModel.edmx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeData/EmployeeDataModel.edmx
+END
+EmployeeData.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeData/EmployeeData.csproj
+END

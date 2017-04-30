@@ -1,0 +1,16 @@
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.mdf
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement_log.ldf
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.Model.dll.config
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.Model.dll
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.Model.pdb
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\obj\Debug\CommodityManagement.Model.dll
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\obj\Debug\CommodityManagement.Model.pdb
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.mdf
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement_log.ldf
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.Model.dll.config
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.Model.dll
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\bin\Debug\CommodityManagement.Model.pdb
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\obj\Debug\CommodityManagement.Model.dll
+F:\LINQ Codes\LINQ\ch07\CommodityManagement\CommodityManagement.Model\obj\Debug\CommodityManagement.Model.pdb

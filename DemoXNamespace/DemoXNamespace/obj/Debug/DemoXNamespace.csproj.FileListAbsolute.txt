@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXNamespace\DemoXNamespace\bin\Debug\DemoXNamespace.exe
+F:\LINQ Codes\LINQC\ch06\DemoXNamespace\DemoXNamespace\bin\Debug\DemoXNamespace.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXNamespace\DemoXNamespace\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXNamespace\DemoXNamespace\obj\Debug\DemoXNamespace.exe
+F:\LINQ Codes\LINQC\ch06\DemoXNamespace\DemoXNamespace\obj\Debug\DemoXNamespace.pdb

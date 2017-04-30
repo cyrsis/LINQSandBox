@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTranslate2", "DemoTranslate2\DemoTranslate2.csproj", "{B69EEEB7-43E2-4BAC-A6CE-F46B0DF3166B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69EEEB7-43E2-4BAC-A6CE-F46B0DF3166B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69EEEB7-43E2-4BAC-A6CE-F46B0DF3166B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69EEEB7-43E2-4BAC-A6CE-F46B0DF3166B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69EEEB7-43E2-4BAC-A6CE-F46B0DF3166B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

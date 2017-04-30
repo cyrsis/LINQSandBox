@@ -1,0 +1,6 @@
+C:\dev\_C_Sharp\functional-programming-csharp\4-functional-programming-csharp-m4-exercise-files\After\FunctionalCSharp\bin\Debug\FunctionalCSharp.exe.config
+C:\dev\_C_Sharp\functional-programming-csharp\4-functional-programming-csharp-m4-exercise-files\After\FunctionalCSharp\bin\Debug\FunctionalCSharp.exe
+C:\dev\_C_Sharp\functional-programming-csharp\4-functional-programming-csharp-m4-exercise-files\After\FunctionalCSharp\bin\Debug\FunctionalCSharp.pdb
+C:\dev\_C_Sharp\functional-programming-csharp\4-functional-programming-csharp-m4-exercise-files\After\FunctionalCSharp\obj\Debug\FunctionalCSharp.csprojResolveAssemblyReference.cache
+C:\dev\_C_Sharp\functional-programming-csharp\4-functional-programming-csharp-m4-exercise-files\After\FunctionalCSharp\obj\Debug\FunctionalCSharp.exe
+C:\dev\_C_Sharp\functional-programming-csharp\4-functional-programming-csharp-m4-exercise-files\After\FunctionalCSharp\obj\Debug\FunctionalCSharp.pdb

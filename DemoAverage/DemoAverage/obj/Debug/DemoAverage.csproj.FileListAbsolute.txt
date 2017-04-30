@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoAverage\DemoAverage\bin\Debug\DemoAverage.exe
+F:\LINQ Codes\LINQC\ch04\DemoAverage\DemoAverage\bin\Debug\DemoAverage.pdb
+F:\LINQ Codes\LINQC\ch04\DemoAverage\DemoAverage\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoAverage\DemoAverage\obj\Debug\DemoAverage.exe
+F:\LINQ Codes\LINQC\ch04\DemoAverage\DemoAverage\obj\Debug\DemoAverage.pdb

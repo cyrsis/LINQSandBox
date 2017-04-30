@@ -1,0 +1,137 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Content/f:Site.css" caret="887" fromTop="10" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Views/d:Shared/f:Site.Master" caret="611" fromTop="14" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/f:Web.config" caret="906" fromTop="15" />
+      <File id="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E/d:Custom/f:IEntity.cs" caret="106" fromTop="5" />
+      <File id="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E/f:TimeCard.cs" caret="111" fromTop="4" />
+      <File id="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E/f:Employee.cs" caret="351" fromTop="10" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:EF/f:SqlUnitOfWork.cs" caret="811" fromTop="13" />
+      <File id="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E/d:EF/f:IUnitOfWork.cs" caret="233" fromTop="9" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:EmployeeController.cs" caret="1131" fromTop="10" />
+      <File id="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E/d:Custom/f:IRepository.cs" caret="293" fromTop="12" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlRepository.cs" caret="595" fromTop="11" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Views/d:Worker/f:Index.aspx" caret="1212" fromTop="6" />
+      <File id="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E/d:Custom/f:IUnitOfWork.cs" caret="144" fromTop="6" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="953" fromTop="12" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Extensions/f:QueryableExtensions.cs" caret="434" fromTop="13" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1355" fromTop="7" />
+      <File id="95027F36-3D30-4E35-A81D-18C0B92F3CB6/d:Ef/d:Controllers/f:EmployeeControllerTests.cs" caret="0" fromTop="0" />
+      <File id="95027F36-3D30-4E35-A81D-18C0B92F3CB6/d:Fakes/f:EmployeeObjectMother.cs" caret="866" fromTop="22" />
+      <File id="95027F36-3D30-4E35-A81D-18C0B92F3CB6/d:Custom/d:Controllers/f:WorkerControllerTests.cs" caret="1985" fromTop="15" />
+      <File id="95027F36-3D30-4E35-A81D-18C0B92F3CB6/d:Fakes/d:EF/f:InMemoryObjectSet.cs" caret="689" fromTop="17" />
+      <File id="95027F36-3D30-4E35-A81D-18C0B92F3CB6/d:Fakes/d:EF/f:InMemoryUnitOfWork.cs" caret="265" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlRepository.cs" caret="239" fromTop="8" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlRepository.cs" caret="554" fromTop="8" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlRepository.cs" caret="684" fromTop="13" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="842" fromTop="13" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1518" fromTop="11" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="941" fromTop="26" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1420" fromTop="9" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Views/d:Worker/f:Index.aspx" caret="643" fromTop="13" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Views/d:Worker/f:Index.aspx" caret="1254" fromTop="7" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1420" fromTop="6" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="842" fromTop="11" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1420" fromTop="6" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="842" fromTop="11" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="842" fromTop="15" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1420" fromTop="6" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="842" fromTop="15" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="842" fromTop="19" />
+      <File id="6F133CDD-8D46-4A1A-A0C9-C41E88B7F06E/d:Custom/f:IUnitOfWork.cs" caret="102" fromTop="4" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="200" fromTop="0" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1595" fromTop="12" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1518" fromTop="11" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1474" fromTop="9" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1420" fromTop="7" />
+      <File id="0B57154E-1FFA-439B-9776-732DA845ACCB/d:Custom/f:SqlUnitOfWork.cs" caret="1353" fromTop="7" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="842" fromTop="12" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="642" fromTop="11" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="642" fromTop="11" />
+      <File id="2CBCCE10-CF93-4050-95A7-9E0D91802D1C/d:Controllers/f:WorkerController.cs" caret="987" fromTop="22" />
+      <File id="95027F36-3D30-4E35-A81D-18C0B92F3CB6/d:Custom/d:Controllers/f:WorkerControllerTests.cs" caret="7624" fromTop="11" />
+      <File id="95027F36-3D30-4E35-A81D-18C0B92F3CB6/d:Custom/d:Controllers/f:WorkerControllerTests.cs" caret="756" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IQueryable" priority="1" />
+      <Item value="Employee`0" priority="1" />
+      <Item value="q" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="T`0" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="_objectSet" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="IDisposable`0" priority="4" />
+      <Item value="public" priority="0" />
+      <Item value="ObjectDisposedException`0" priority="1" />
+      <Item value="_context" priority="4" />
+      <Item value="using" priority="3" />
+      <Item value="_unitOfWork" priority="4" />
+      <Item value="override" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedQueryable`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="Take`1" priority="0" />
+      <Item value="Include`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeDomain.Employee">
+      <Item value="Name" priority="0" />
+      <Item value="TimeCards" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeDomain.Custom.IUnitOfWork">
+      <Item value="Employees" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EmployeeDomain.Custom.IRepository`1">
+      <Item value="FindAll`0" priority="0" />
+      <Item value="FindAllAsEnumerable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectSet`1">
+      <Item value="Where`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectContext">
+      <Item value="Dispose`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXAddAnnotation\DemoXAddAnnotation\bin\Debug\DemoXAddAnnotation.exe
+F:\LINQ Codes\LINQC\ch06\DemoXAddAnnotation\DemoXAddAnnotation\bin\Debug\DemoXAddAnnotation.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXAddAnnotation\DemoXAddAnnotation\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXAddAnnotation\DemoXAddAnnotation\obj\Debug\DemoXAddAnnotation.exe
+F:\LINQ Codes\LINQC\ch06\DemoXAddAnnotation\DemoXAddAnnotation\obj\Debug\DemoXAddAnnotation.pdb

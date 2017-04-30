@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch03\DemoJoin\DemoJoin\bin\Debug\DemoJoin.exe
+F:\LINQ Codes\LINQC\ch03\DemoJoin\DemoJoin\bin\Debug\DemoJoin.pdb
+F:\LINQ Codes\LINQC\ch03\DemoJoin\DemoJoin\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch03\DemoJoin\DemoJoin\obj\Debug\DemoJoin.exe
+F:\LINQ Codes\LINQC\ch03\DemoJoin\DemoJoin\obj\Debug\DemoJoin.pdb

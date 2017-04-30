@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="44c90952-21b5-4baa-95d4-3eb4d147429a" name="bitmask@BIT7 2010-09-24 01:51:33" runUser="bit7\bitmask" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="45cefa64-dbbc-4db4-b186-3eeb7e55fdf8">
+    <Deployment runDeploymentRoot="bitmask_BIT7 2010-09-24 01_51_33">
+      <DeploymentItem filename="C:\temp\linq-beyondqueries\bin\BeyondQueries.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-09-24T01:51:33.5800000-04:00" queuing="2010-09-24T01:51:33.8270000-04:00" start="2010-09-24T01:51:33.8370000-04:00" finish="2010-09-24T01:51:34.1690000-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MovieWithTitleAndLength75IsGood" storage="c:\temp\beyondqueries.tests\bin\debug\beyondqueries.tests.dll" id="d1edd5f7-eb76-d16d-6a25-654de750d1a5">
+      <Execution id="2b292fe3-12a1-4d99-a12b-b6c90c91e2e2" />
+      <TestMethod codeBase="C:/temp/BeyondQueries.Tests/bin/Debug/BeyondQueries.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BeyondQueries.Tests.MovieEvaluation, BeyondQueries.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MovieWithTitleAndLength75IsGood" />
+    </UnitTest>
+    <UnitTest name="MovieWithoutATitleNeedsMoreInformation" storage="c:\temp\beyondqueries.tests\bin\debug\beyondqueries.tests.dll" id="ed6dcae6-11a4-d0a6-c707-e5fc2823deac">
+      <Execution id="5eb2d226-d605-4042-9094-d3e90b479e56" />
+      <TestMethod codeBase="C:/temp/BeyondQueries.Tests/bin/Debug/BeyondQueries.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BeyondQueries.Tests.MovieEvaluation, BeyondQueries.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MovieWithoutATitleNeedsMoreInformation" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d1edd5f7-eb76-d16d-6a25-654de750d1a5" executionId="2b292fe3-12a1-4d99-a12b-b6c90c91e2e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ed6dcae6-11a4-d0a6-c707-e5fc2823deac" executionId="5eb2d226-d605-4042-9094-d3e90b479e56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2b292fe3-12a1-4d99-a12b-b6c90c91e2e2" testId="d1edd5f7-eb76-d16d-6a25-654de750d1a5" testName="MovieWithTitleAndLength75IsGood" computerName="BIT7" duration="00:00:00.0341110" startTime="2010-09-24T01:51:33.8420000-04:00" endTime="2010-09-24T01:51:34.0950000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b292fe3-12a1-4d99-a12b-b6c90c91e2e2">
+    </UnitTestResult>
+    <UnitTestResult executionId="5eb2d226-d605-4042-9094-d3e90b479e56" testId="ed6dcae6-11a4-d0a6-c707-e5fc2823deac" testName="MovieWithoutATitleNeedsMoreInformation" computerName="BIT7" duration="00:00:00.0003767" startTime="2010-09-24T01:51:34.0980000-04:00" endTime="2010-09-24T01:51:34.1030000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5eb2d226-d605-4042-9094-d3e90b479e56">
+    </UnitTestResult>
+  </Results>
+</TestRun>

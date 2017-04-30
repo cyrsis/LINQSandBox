@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoCheckWord\DemoCheckWord\bin\DemoCheckWord.dll
+F:\LINQ Codes\LINQC\ch04\DemoCheckWord\DemoCheckWord\bin\DemoCheckWord.pdb
+F:\LINQ Codes\LINQC\ch04\DemoCheckWord\DemoCheckWord\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoCheckWord\DemoCheckWord\obj\Debug\DemoCheckWord.dll
+F:\LINQ Codes\LINQC\ch04\DemoCheckWord\DemoCheckWord\obj\Debug\DemoCheckWord.pdb

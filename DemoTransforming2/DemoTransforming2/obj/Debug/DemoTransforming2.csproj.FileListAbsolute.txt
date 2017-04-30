@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoTransforming2\DemoTransforming2\bin\Debug\DemoTransforming2.exe
+F:\LINQ Codes\LINQC\ch06\DemoTransforming2\DemoTransforming2\bin\Debug\DemoTransforming2.pdb
+F:\LINQ Codes\LINQC\ch06\DemoTransforming2\DemoTransforming2\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoTransforming2\DemoTransforming2\obj\Debug\DemoTransforming2.exe
+F:\LINQ Codes\LINQC\ch06\DemoTransforming2\DemoTransforming2\obj\Debug\DemoTransforming2.pdb

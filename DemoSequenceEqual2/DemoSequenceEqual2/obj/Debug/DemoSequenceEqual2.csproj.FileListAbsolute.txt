@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch04\DemoSequenceEqual2\DemoSequenceEqual2\bin\Debug\DemoSequenceEqual2.exe
+F:\LINQ Codes\LINQC\ch04\DemoSequenceEqual2\DemoSequenceEqual2\bin\Debug\DemoSequenceEqual2.pdb
+F:\LINQ Codes\LINQC\ch04\DemoSequenceEqual2\DemoSequenceEqual2\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch04\DemoSequenceEqual2\DemoSequenceEqual2\obj\Debug\DemoSequenceEqual2.exe
+F:\LINQ Codes\LINQC\ch04\DemoSequenceEqual2\DemoSequenceEqual2\obj\Debug\DemoSequenceEqual2.pdb

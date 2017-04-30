@@ -1,0 +1,6 @@
+F:\LINQ Codes\LINQC\ch05\DemoAddRange\DemoAddRange\bin\Debug\DemoAddRange.exe
+F:\LINQ Codes\LINQC\ch05\DemoAddRange\DemoAddRange\bin\Debug\DemoAddRange.pdb
+F:\LINQ Codes\LINQC\ch05\DemoAddRange\DemoAddRange\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoAddRange\DemoAddRange\obj\Debug\DemoAddRange.exe
+F:\LINQ Codes\LINQC\ch05\DemoAddRange\DemoAddRange\obj\Debug\DemoAddRange.pdb
+F:\LINQ Codes\LINQC\ch05\DemoAddRange\DemoAddRange\bin\Debug\DemoAddRange.exe.config

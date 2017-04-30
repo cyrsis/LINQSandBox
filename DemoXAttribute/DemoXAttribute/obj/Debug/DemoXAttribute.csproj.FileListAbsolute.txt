@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXAttribute\DemoXAttribute\bin\Debug\DemoXAttribute.exe
+F:\LINQ Codes\LINQC\ch06\DemoXAttribute\DemoXAttribute\bin\Debug\DemoXAttribute.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXAttribute\DemoXAttribute\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXAttribute\DemoXAttribute\obj\Debug\DemoXAttribute.exe
+F:\LINQ Codes\LINQC\ch06\DemoXAttribute\DemoXAttribute\obj\Debug\DemoXAttribute.pdb

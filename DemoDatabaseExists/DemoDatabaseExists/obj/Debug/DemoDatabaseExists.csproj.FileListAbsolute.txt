@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoDatabaseExists\DemoDatabaseExists\bin\Debug\DemoDatabaseExists.exe
+F:\LINQ Codes\LINQC\ch05\DemoDatabaseExists\DemoDatabaseExists\bin\Debug\DemoDatabaseExists.pdb
+F:\LINQ Codes\LINQC\ch05\DemoDatabaseExists\DemoDatabaseExists\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoDatabaseExists\DemoDatabaseExists\obj\Debug\DemoDatabaseExists.exe
+F:\LINQ Codes\LINQC\ch05\DemoDatabaseExists\DemoDatabaseExists\obj\Debug\DemoDatabaseExists.pdb

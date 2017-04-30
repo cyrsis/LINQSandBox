@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeDomain/Custom
+END
+IUnitOfWork.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeDomain/Custom/IUnitOfWork.cs
+END
+IEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeDomain/Custom/IEntity.cs
+END
+IRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/alinq/!svn/ver/96/trunk/demos/EmployeeTimeCards/EmployeeDomain/Custom/IRepository.cs
+END

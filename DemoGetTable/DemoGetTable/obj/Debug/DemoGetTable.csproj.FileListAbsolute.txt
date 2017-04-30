@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch05\DemoGetTable\DemoGetTable\bin\Debug\DemoGetTable.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetTable\DemoGetTable\bin\Debug\DemoGetTable.pdb
+F:\LINQ Codes\LINQC\ch05\DemoGetTable\DemoGetTable\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch05\DemoGetTable\DemoGetTable\obj\Debug\DemoGetTable.exe
+F:\LINQ Codes\LINQC\ch05\DemoGetTable\DemoGetTable\obj\Debug\DemoGetTable.pdb

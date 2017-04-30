@@ -1,0 +1,10 @@
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\bin\Debug\DomViewer.exe
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\bin\Debug\DomViewer.pdb
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\obj\Debug\DomViewer.Viewer.resources
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\obj\Debug\DomViewer.Properties.Resources.resources
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\obj\Debug\DomViewer.csproj.GenerateResource.Cache
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\obj\Debug\DomViewer.exe
+F:\LINQ Codes\LINQC\ch01\DomViewer\DomViewer\obj\Debug\DomViewer.pdb
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\DomViewer\DomViewer\obj\Debug\DomViewer.exe
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\DomViewer\DomViewer\obj\Debug\DomViewer.pdb

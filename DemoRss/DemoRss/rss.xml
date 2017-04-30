@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--此RSS檔案使用LINQ to XML、LINQ to SQL技術生成。-->
+<rss version="2.0">
+  <channel>
+    <title>成功訂貨的清單</title>
+    <link>http://www.tiyor.com/rss/</link>
+    <description>這是測試生成RSS的頻道，RSS將統計並輸出AddressBook資料庫中的記錄。</description>
+    <language>zh-cn</language>
+    <pubDate>Sat, 17 Jan 2009 17:34:05 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2009 17:34:05 GMT</lastBuildDate>
+    <docs />
+    <item>
+      <title>肖青漩 的訂單</title>
+      <link>#</link>
+      <description><![CDATA[<p><b>肖青漩</b> 女 017*-876543** 小計：￥5,001,500 </p><p><b>訂購：</b></p><p>絲質旗袍 1 件 單價：￥1,500 共計：￥1,500</p><p>獨門大宅院 1 座 單價：￥5,000,000 共計：￥5,000,000</p>]]></description>
+      <pubDate>Sat, 17 Jan 2009 17:34:05 GMT</pubDate>
+      <category>訂單</category>
+      <author>肖青漩</author>
+      <guid>017*-876543**</guid>
+    </item>
+    <item>
+      <title>董巧巧 的訂單</title>
+      <link>#</link>
+      <description><![CDATA[<p><b>董巧巧</b> 女 029*-981256** 小計：￥60,620 </p><p><b>訂購：</b></p><p>玫瑰香水 2 瓶 單價：￥310 共計：￥620</p><p>3克拉鑽石戒指 1 個 單價：￥60,000 共計：￥60,000</p>]]></description>
+      <pubDate>Sat, 17 Jan 2009 17:34:05 GMT</pubDate>
+      <category>訂單</category>
+      <author>董巧巧</author>
+      <guid>029*-981256**</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\obj\Debug\ResolveAssemblyReference.cache
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\obj\Debug\AddressBook.MainForm.resources
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\bin\Debug\DbAddressBook.mdf
+D:\书\LINQ 入门及应用\第1章\代码\AddressBook\AddressBook\bin\Debug\DbAddressBook_log.ldf
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\bin\Debug\DbAddressBook.mdf
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\bin\Debug\DbAddressBook_log.ldf
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.MainForm.resources
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+F:\LINQ Codes\LINQ\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\bin\Debug\AddressBook.exe.config
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.exe
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.pdb
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\bin\Debug\DbAddressBook.mdf
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\bin\Debug\DbAddressBook_log.ldf
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\bin\Debug\AddressBook.exe
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\bin\Debug\AddressBook.pdb
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.MainForm.resources
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\AddressBook\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.Cache

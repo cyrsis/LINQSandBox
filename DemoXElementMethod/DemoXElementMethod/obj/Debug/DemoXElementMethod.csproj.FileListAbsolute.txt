@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXElementMethod\DemoXElementMethod\bin\Debug\DemoXElementMethod.exe
+F:\LINQ Codes\LINQC\ch06\DemoXElementMethod\DemoXElementMethod\bin\Debug\DemoXElementMethod.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXElementMethod\DemoXElementMethod\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXElementMethod\DemoXElementMethod\obj\Debug\DemoXElementMethod.exe
+F:\LINQ Codes\LINQC\ch06\DemoXElementMethod\DemoXElementMethod\obj\Debug\DemoXElementMethod.pdb

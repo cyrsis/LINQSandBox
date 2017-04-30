@@ -1,0 +1,15 @@
+F:\LINQ Codes\LINQC\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\bin\Debug\Linq2ObjectsDemo1.exe
+F:\LINQ Codes\LINQC\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\bin\Debug\Linq2ObjectsDemo1.pdb
+F:\LINQ Codes\LINQC\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.exe
+F:\LINQ Codes\LINQC\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.pdb
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.exe
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.pdb
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\bin\Debug\Linq2ObjectsDemo1.exe
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\bin\Debug\Linq2ObjectsDemo1.pdb
+C:\dev\_C_Sharp\_LINQ\本書範例程式(書附光碟)\ch01\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.csprojResolveAssemblyReference.cache
+C:\dev\_C_Sharp\_LINQ\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.exe
+C:\dev\_C_Sharp\_LINQ\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.pdb
+C:\dev\_C_Sharp\_LINQ\Linq2ObjectsDemo1\Linq2ObjectsDemo1\bin\Debug\Linq2ObjectsDemo1.exe
+C:\dev\_C_Sharp\_LINQ\Linq2ObjectsDemo1\Linq2ObjectsDemo1\bin\Debug\Linq2ObjectsDemo1.pdb
+C:\dev\_C_Sharp\_LINQ\Linq2ObjectsDemo1\Linq2ObjectsDemo1\obj\Debug\Linq2ObjectsDemo1.csprojResolveAssemblyReference.cache

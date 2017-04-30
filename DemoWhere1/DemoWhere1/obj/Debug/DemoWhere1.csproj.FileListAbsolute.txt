@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch03\DemoWhere1\DemoWhere1\bin\Debug\DemoWhere1.exe
+F:\LINQ Codes\LINQC\ch03\DemoWhere1\DemoWhere1\bin\Debug\DemoWhere1.pdb
+F:\LINQ Codes\LINQC\ch03\DemoWhere1\DemoWhere1\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch03\DemoWhere1\DemoWhere1\obj\Debug\DemoWhere1.exe
+F:\LINQ Codes\LINQC\ch03\DemoWhere1\DemoWhere1\obj\Debug\DemoWhere1.pdb

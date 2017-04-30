@@ -1,0 +1,8 @@
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Release\CommodityManagement.mdf
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Release\CommodityManagement_log.ldf
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Release\CommodityManagement.Model.dll.config
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Release\CommodityManagement.Model.dll
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\bin\Release\CommodityManagement.Model.pdb
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\obj\Release\ResolveAssemblyReference.cache
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\obj\Release\CommodityManagement.Model.dll
+D:\书\LINQ 入门及应用\第7章\代码\CommodityManagement\CommodityManagement.Model\obj\Release\CommodityManagement.Model.pdb

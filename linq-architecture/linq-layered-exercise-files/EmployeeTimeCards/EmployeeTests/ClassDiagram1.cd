@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerTestBase" Collapsed="true">
+    <Position X="13" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABEAAAAAgAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerIndexActionTests" Collapsed="true">
+    <Position X="10.75" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerDetailsActionTests" Collapsed="true">
+    <Position X="10.75" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerCreateActionGetTests" Collapsed="true">
+    <Position X="16.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerCreateActionPostTests" Collapsed="true">
+    <Position X="16.25" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAIAAAAAAAAgQAAIAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerEditActionGetTests" Collapsed="true">
+    <Position X="16.25" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerEditActionPostTests" Collapsed="true">
+    <Position X="16.25" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAARAAAAAAAAAAAAAgRAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeTests.Ef.Controllers.EmployeeControllerSummaryActionTests" Collapsed="true">
+    <Position X="10.75" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Ef\Controllers\EmployeeControllerTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

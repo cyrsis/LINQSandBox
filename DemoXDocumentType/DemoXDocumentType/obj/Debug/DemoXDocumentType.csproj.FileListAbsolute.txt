@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXDocumentType\DemoXDocumentType\bin\Debug\DemoXDocumentType.exe
+F:\LINQ Codes\LINQC\ch06\DemoXDocumentType\DemoXDocumentType\bin\Debug\DemoXDocumentType.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXDocumentType\DemoXDocumentType\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXDocumentType\DemoXDocumentType\obj\Debug\DemoXDocumentType.exe
+F:\LINQ Codes\LINQC\ch06\DemoXDocumentType\DemoXDocumentType\obj\Debug\DemoXDocumentType.pdb

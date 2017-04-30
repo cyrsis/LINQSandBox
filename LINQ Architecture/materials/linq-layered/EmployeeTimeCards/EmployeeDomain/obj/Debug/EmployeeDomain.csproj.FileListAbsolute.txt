@@ -1,0 +1,5 @@
+C:\dev\_LINQ\LINQ Architecture\materials\linq-layered-exercise-files\EmployeeTimeCards\EmployeeDomain\bin\Debug\EmployeeDomain.dll
+C:\dev\_LINQ\LINQ Architecture\materials\linq-layered-exercise-files\EmployeeTimeCards\EmployeeDomain\bin\Debug\EmployeeDomain.pdb
+C:\dev\_LINQ\LINQ Architecture\materials\linq-layered-exercise-files\EmployeeTimeCards\EmployeeDomain\obj\Debug\EmployeeDomain.csprojResolveAssemblyReference.cache
+C:\dev\_LINQ\LINQ Architecture\materials\linq-layered-exercise-files\EmployeeTimeCards\EmployeeDomain\obj\Debug\EmployeeDomain.dll
+C:\dev\_LINQ\LINQ Architecture\materials\linq-layered-exercise-files\EmployeeTimeCards\EmployeeDomain\obj\Debug\EmployeeDomain.pdb

@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoRss\DemoRss\bin\DemoRss.dll
+F:\LINQ Codes\LINQC\ch06\DemoRss\DemoRss\bin\DemoRss.pdb
+F:\LINQ Codes\LINQC\ch06\DemoRss\DemoRss\obj\Release\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoRss\DemoRss\obj\Release\DemoRss.dll
+F:\LINQ Codes\LINQC\ch06\DemoRss\DemoRss\obj\Release\DemoRss.pdb

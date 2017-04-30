@@ -1,0 +1,80 @@
+10
+
+dir
+96
+https://svn.pluralsight.com:8443/svn/alinq/trunk/demos/EmployeeTimeCards
+https://svn.pluralsight.com:8443/svn/alinq
+
+
+
+2010-09-27T14:34:59.599000Z
+96
+scott-allen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+460a12a2-cc9b-004a-8010-dc426bccde7a
+
+Employee.Tests
+dir
+
+EmployeeTests
+dir
+
+EmployeeTimeCards.sln
+file
+
+
+
+
+2010-09-27T14:34:08.661000Z
+60e8f16c05ca84975776949f37d51d73
+2010-09-27T14:34:59.599000Z
+96
+scott-allen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2522
+
+EmployeeDomain
+dir
+
+EmployeeData
+dir
+
+libs
+dir
+
+EmployeeWeb
+dir
+

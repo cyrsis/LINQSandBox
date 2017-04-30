@@ -1,0 +1,7 @@
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Basics\bin\Debug\LINQ Basics.dll
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Basics\bin\Debug\LINQ Basics.pdb
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Basics\bin\Debug\Models.dll
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Basics\bin\Debug\Models.pdb
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Basics\obj\Debug\LINQ Basics.csprojResolveAssemblyReference.cache
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Basics\obj\Debug\LINQ Basics.dll
+C:\dev\_LINQ\LINQ - TestDriven Learning\LINQ Basics\obj\Debug\LINQ Basics.pdb

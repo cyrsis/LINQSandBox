@@ -1,0 +1,5 @@
+F:\LINQ Codes\LINQC\ch06\DemoXSetElementValue\DemoXSetElementValue\bin\Debug\DemoXSetElementValue.exe
+F:\LINQ Codes\LINQC\ch06\DemoXSetElementValue\DemoXSetElementValue\bin\Debug\DemoXSetElementValue.pdb
+F:\LINQ Codes\LINQC\ch06\DemoXSetElementValue\DemoXSetElementValue\obj\Debug\ResolveAssemblyReference.cache
+F:\LINQ Codes\LINQC\ch06\DemoXSetElementValue\DemoXSetElementValue\obj\Debug\DemoXSetElementValue.exe
+F:\LINQ Codes\LINQC\ch06\DemoXSetElementValue\DemoXSetElementValue\obj\Debug\DemoXSetElementValue.pdb
